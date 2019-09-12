@@ -34,7 +34,7 @@ Your output look like this:
 
 Accuracy of the model is `83.7%`
 
-References:
+## References:
 
 * https://colab.research.google.com/
 * https://arxiv.org/abs/1612.00593
