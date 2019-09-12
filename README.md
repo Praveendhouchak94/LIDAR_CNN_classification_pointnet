@@ -4,7 +4,7 @@ Orignal implementation of pointnet is done in tensorflow: https://github.com/cha
 
 currently I'm working on classification problem of 3D point cloud dataset after we month i will start working on Segmentation. 
 
-Package used: keras, tensorflow, numpy, Pyqt5, pptk, h4py
+Package used: keras, tensorflow, numpy, Pyqt5, pptk, h5py,threading
 
 # classification
 Download the raw point clouds dataset of <a href="http://modelnet.cs.princeton.edu/ModelNet40.zip" target="_blank">ModelNet40</a> models in .off files. It contain 40 class point cloud data that we want to classify using deep learning.
